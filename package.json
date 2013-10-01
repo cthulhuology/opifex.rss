@@ -1,0 +1,22 @@
+{
+	"author": "David Goehrig",
+	"name": "opifex.rss",
+	"license" : "MIT",
+	"description": "Fetches RSS feeds and feeds them to AMQP",
+	"version": "0.0.1",
+	"repository": {
+		"url": "http://github.com/cthulhuology/opifex.rss"
+	},
+	"main": "./lib/Opifex.RSS.coffee",
+	"bin": {},
+	"dependencies": {
+		"opifex" : "0.0.4"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": "*",
+		"coffee": "*"
+	}
+}
+

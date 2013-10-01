@@ -3,14 +3,14 @@
 	"name": "opifex.rss",
 	"license" : "MIT",
 	"description": "Fetches RSS feeds and feeds them to AMQP",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"url": "http://github.com/cthulhuology/opifex.rss"
 	},
 	"main": "./lib/Opifex.RSS.coffee",
 	"bin": {},
 	"dependencies": {
-		"opifex" : "0.0.5"
+		"opifex" : ">=0.0.6"
 	},
 	"devDependencies": {},
 	"optionalDependencies": {},

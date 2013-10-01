@@ -10,7 +10,7 @@
 	"main": "./lib/Opifex.RSS.coffee",
 	"bin": {},
 	"dependencies": {
-		"opifex" : "0.0.4"
+		"opifex" : "0.0.5"
 	},
 	"devDependencies": {},
 	"optionalDependencies": {},
